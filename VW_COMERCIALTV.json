@@ -1,4979 +1,3632 @@
 [
     {
-        "MES_ANO":"05\/2023",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":12,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":13,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"10\/2023",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"02\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"03\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"06\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"09\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"11\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":35
-    },
-    {
         "MES_ANO":"01\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":105513.408350198,
+        "VENDA_BRUTA":104272.2,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":104272.2,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":6
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":95921.280320029,
+        "VENDA_BRUTA":155423.94,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":155423.94,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":12,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":12
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":95921.280320029,
+        "VENDA_BRUTA":114820.68,
+        "DEVOLUCAO":6030.72,
+        "FATURAMENTO":108789.96,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":4
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":95921.280320029,
+        "VENDA_BRUTA":22922.4,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":22922.4,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":5
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":100717.344332018,
+        "VENDA_BRUTA":134847.88,
+        "DEVOLUCAO":114.0,
+        "FATURAMENTO":134733.88,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":6
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":95921.280320029,
+        "VENDA_BRUTA":56264.76,
+        "DEVOLUCAO":202.62,
+        "FATURAMENTO":56062.14,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":3
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":110309.472365347,
+        "VENDA_BRUTA":72052.14,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":72052.14,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":8
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":100717.344332018,
+        "VENDA_BRUTA":33716.82,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":33716.82,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":6
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":105513.408350198,
+        "VENDA_BRUTA":94334.74,
+        "DEVOLUCAO":20.52,
+        "FATURAMENTO":94314.22,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":6
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":110309.472365347,
+        "VENDA_BRUTA":166568.66,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":166568.66,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":7
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":95921.280320029,
+        "VENDA_BRUTA":46898.7,
+        "DEVOLUCAO":26.4,
+        "FATURAMENTO":46872.3,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":4
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"ALAGOAS",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":105513.408350198,
+        "VENDA_BRUTA":49431.0,
+        "DEVOLUCAO":32.4,
+        "FATURAMENTO":49398.6,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":5
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":111711.853762577,
+        "VENDA_BRUTA":128671.74,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":128671.74,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":9
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":95753.0175107802,
+        "VENDA_BRUTA":154573.8,
+        "DEVOLUCAO":343.32,
         "FATURAMENTO":154230.48,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":5
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":130034.962051677,
+        "VENDA_BRUTA":76074.84,
+        "DEVOLUCAO":10137.12,
         "FATURAMENTO":65937.72,
         "PEDIDO_PENDENTE":133562.9952,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":6
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":118213.6018651609,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":118213.6018651609,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":124124.281958419,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":135945.6421449351,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":136536.7101542609,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":124124.281958419,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":136536.7101542609,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":130034.962051677,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"ALAGOAS",
         "META_VENDA":117031.4658465092,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
-        "MES_ANO":"05\/2023",
+        "MES_ANO":"01\/2025",
         "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":110390.99296174,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":326.4,
+        "FATURAMENTO":-326.4,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"06\/2024",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"09\/2024",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":100355.44815418,
+        "VENDA_BRUTA":48166.9,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":48166.9,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":100355.44815418,
+        "VENDA_BRUTA":189623.8,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":189623.8,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"AMAPA",
-        "META_VENDA":0.0,
+        "META_VENDA":100355.44815418,
+        "VENDA_BRUTA":33632.82,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":33632.82,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":2
+    },
+    {
+        "MES_ANO":"05\/2025",
+        "UF":"AMAPA",
+        "META_VENDA":105373.22055387,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":100355.44815418,
+        "VENDA_BRUTA":185401.95,
+        "DEVOLUCAO":90.24,
+        "FATURAMENTO":185311.71,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":115408.76537459,
+        "VENDA_BRUTA":83796.98,
+        "DEVOLUCAO":119.52,
+        "FATURAMENTO":83677.46,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":2
+    },
+    {
+        "MES_ANO":"08\/2025",
+        "UF":"AMAPA",
+        "META_VENDA":105373.22055387,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":410.52,
+        "FATURAMENTO":-410.52,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"AMAPA",
-        "META_VENDA":0.0,
+        "META_VENDA":110390.99296174,
+        "VENDA_BRUTA":234391.52,
+        "DEVOLUCAO":164.82,
+        "FATURAMENTO":234226.7,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":3
+    },
+    {
+        "MES_ANO":"10\/2025",
+        "UF":"AMAPA",
+        "META_VENDA":115408.76537459,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":100355.44815418,
+        "VENDA_BRUTA":164120.84,
+        "DEVOLUCAO":2025.96,
+        "FATURAMENTO":162094.88,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"AMAPA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":110390.99296174,
+        "VENDA_BRUTA":90803.5,
+        "DEVOLUCAO":254.04,
+        "FATURAMENTO":90549.46,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"AMAPA",
         "META_VENDA":73099.93598661,
-        "FATURAMENTO":160776.98,
+        "VENDA_BRUTA":184519.74,
+        "DEVOLUCAO":2017.2,
+        "FATURAMENTO":182502.54,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"AMAPA",
         "META_VENDA":62657.0879885228,
-        "FATURAMENTO":27130.43,
+        "VENDA_BRUTA":30830.04,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":30830.04,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":3
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"AMAPA",
         "META_VENDA":85089.8725770063,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"AMAPA",
         "META_VENDA":77354.4296154603,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"AMAPA",
         "META_VENDA":77354.4296154603,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"AMAPA",
         "META_VENDA":81222.1510962333,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"AMAPA",
         "META_VENDA":88957.5940577793,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"AMAPA",
         "META_VENDA":89344.3662058566,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"AMAPA",
         "META_VENDA":81222.1510962333,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"AMAPA",
         "META_VENDA":89344.3662058566,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"AMAPA",
         "META_VENDA":85089.8725770063,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":3
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"AMAPA",
         "META_VENDA":76580.8853193056,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":3
-    },
-    {
-        "MES_ANO":"05\/2023",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"10\/2023",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"02\/2024",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"06\/2024",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"11\/2024",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":3,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"01\/2025",
         "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":230621.49049408,
+        "VENDA_BRUTA":406226.24,
+        "DEVOLUCAO":407.4,
+        "FATURAMENTO":405818.84,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":7
+    },
+    {
+        "MES_ANO":"02\/2025",
+        "UF":"Amazonas",
+        "META_VENDA":209655.90044893,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":2098.92,
+        "FATURAMENTO":-2098.92,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":209655.90044893,
+        "VENDA_BRUTA":373297.86,
+        "DEVOLUCAO":609.22,
+        "FATURAMENTO":372688.64,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":8
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":209655.90044893,
+        "VENDA_BRUTA":189105.52,
+        "DEVOLUCAO":9179.88,
+        "FATURAMENTO":179925.64,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":6
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":220138.69547393,
+        "VENDA_BRUTA":113587.3,
+        "DEVOLUCAO":195.84,
+        "FATURAMENTO":113391.46,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":6
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":209655.90044893,
+        "VENDA_BRUTA":241045.76,
+        "DEVOLUCAO":598.68,
+        "FATURAMENTO":240447.08,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":6
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":241104.28551091,
+        "VENDA_BRUTA":340174.88,
+        "DEVOLUCAO":198.36,
+        "FATURAMENTO":339976.52,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":7
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":220138.69547393,
+        "VENDA_BRUTA":71360.0,
+        "DEVOLUCAO":695.64,
+        "FATURAMENTO":70664.36,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":230621.49049408,
+        "VENDA_BRUTA":169344.0,
+        "DEVOLUCAO":8116.6,
+        "FATURAMENTO":161227.4,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":241104.28551091,
+        "VENDA_BRUTA":423385.66,
+        "DEVOLUCAO":93.12,
+        "FATURAMENTO":423292.54,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":9
+    },
+    {
+        "MES_ANO":"11\/2025",
+        "UF":"Amazonas",
+        "META_VENDA":209655.90044893,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":306.48,
+        "FATURAMENTO":-306.48,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"Amazonas",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":230621.49049408,
+        "VENDA_BRUTA":231529.56,
+        "DEVOLUCAO":106.02,
+        "FATURAMENTO":231423.54,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":3
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"Amazonas",
         "META_VENDA":204240.0583619353,
-        "FATURAMENTO":127479.57,
+        "VENDA_BRUTA":157947.64,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":157947.64,
         "PEDIDO_PENDENTE":4950.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":5
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"Amazonas",
         "META_VENDA":175062.907167373,
-        "FATURAMENTO":143447.01,
+        "VENDA_BRUTA":183210.0,
+        "DEVOLUCAO":3330.6,
+        "FATURAMENTO":179879.4,
         "PEDIDO_PENDENTE":8767.44,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"Amazonas",
         "META_VENDA":237739.7504742104,
-        "FATURAMENTO":103125.39,
+        "VENDA_BRUTA":131189.88,
+        "DEVOLUCAO":278.8,
+        "FATURAMENTO":130911.08,
         "PEDIDO_PENDENTE":93302.24,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":4
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"Amazonas",
         "META_VENDA":216127.0458856458,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"Amazonas",
         "META_VENDA":216127.0458856458,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"Amazonas",
         "META_VENDA":226933.3981799281,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"Amazonas",
         "META_VENDA":248546.1027684926,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"Amazonas",
         "META_VENDA":249626.7379979208,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"Amazonas",
         "META_VENDA":226933.3981799281,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"Amazonas",
         "META_VENDA":249626.7379979208,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"Amazonas",
         "META_VENDA":237739.7504742104,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":30
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"Amazonas",
         "META_VENDA":213965.7754267893,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":30
-    },
-    {
-        "MES_ANO":"05\/2023",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":40,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":36,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":33,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":35,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"10\/2023",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":23,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":19,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"02\/2024",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"03\/2024",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":13,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":30,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":25,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"09\/2024",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":27,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"11\/2024",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":34,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":30,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"01\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":235863.721002355,
+        "VENDA_BRUTA":328860.0,
+        "DEVOLUCAO":57509.6,
+        "FATURAMENTO":271350.4,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":33,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":33
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":214421.564542617,
+        "VENDA_BRUTA":470814.02,
+        "DEVOLUCAO":13651.52,
+        "FATURAMENTO":457162.5,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":26,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":26
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":214421.564542617,
+        "VENDA_BRUTA":10695.96,
+        "DEVOLUCAO":21782.84,
+        "FATURAMENTO":-11086.88,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":214421.564542617,
+        "VENDA_BRUTA":314354.86,
+        "DEVOLUCAO":2937.24,
+        "FATURAMENTO":311417.62,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":27,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":27
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":225142.64277857,
+        "VENDA_BRUTA":262368.64,
+        "DEVOLUCAO":5819.44,
+        "FATURAMENTO":256549.2,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":5
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":214421.564542617,
+        "VENDA_BRUTA":216205.56,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":216205.56,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":21,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":21
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":246584.799229543,
+        "VENDA_BRUTA":445534.88,
+        "DEVOLUCAO":4576.2,
+        "FATURAMENTO":440958.68,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":28,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":28
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":225142.64277857,
+        "VENDA_BRUTA":295781.04,
+        "DEVOLUCAO":3535.56,
+        "FATURAMENTO":292245.48,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":25,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":25
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":235863.721002355,
+        "VENDA_BRUTA":207503.2,
+        "DEVOLUCAO":810.54,
+        "FATURAMENTO":206692.66,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":24,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":24
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":246584.799229543,
+        "VENDA_BRUTA":121886.07,
+        "DEVOLUCAO":38945.78,
+        "FATURAMENTO":82940.29,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":4
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":214421.564542617,
+        "VENDA_BRUTA":20509.2,
+        "DEVOLUCAO":36.72,
+        "FATURAMENTO":20472.48,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"Bahia",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":235863.721002355,
+        "VENDA_BRUTA":162598.78,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":162598.78,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":20,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":20
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"Bahia",
         "META_VENDA":275029.9436093842,
-        "FATURAMENTO":212865.94,
+        "VENDA_BRUTA":227691.33,
+        "DEVOLUCAO":8175.28,
+        "FATURAMENTO":219516.05,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":6
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"Bahia",
         "META_VENDA":235739.9516651864,
-        "FATURAMENTO":201381.17,
+        "VENDA_BRUTA":217857.78,
+        "DEVOLUCAO":15926.53,
+        "FATURAMENTO":201931.25,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":23,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":23
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"Bahia",
         "META_VENDA":320140.6751008704,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":89.26,
         "FATURAMENTO":-89.26,
         "PEDIDO_PENDENTE":86348.061648,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"Bahia",
         "META_VENDA":291036.9773644276,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"Bahia",
         "META_VENDA":291036.9773644276,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"Bahia",
         "META_VENDA":305588.8262326489,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"Bahia",
         "META_VENDA":334692.5239690917,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"Bahia",
         "META_VENDA":336147.7088559138,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"Bahia",
         "META_VENDA":305588.8262326489,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"Bahia",
         "META_VENDA":336147.7088559138,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"Bahia",
         "META_VENDA":320140.6751008704,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":158
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"Bahia",
         "META_VENDA":288126.6075907833,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":158
-    },
-    {
-        "MES_ANO":"05\/2023",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":23,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":26,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":17,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"10\/2023",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":32,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":41,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":47,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"02\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":16,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"03\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":15,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":27,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":30,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"06\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":31,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":36,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":42,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"09\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":49,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":68,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"11\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":32,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":46,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":158,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"01\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":527256.441626645,
+        "VENDA_BRUTA":663172.29,
+        "DEVOLUCAO":124043.14,
+        "FATURAMENTO":539129.15,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":48,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":47
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":479324.037848824,
+        "VENDA_BRUTA":769617.1800000001,
+        "DEVOLUCAO":92651.86,
+        "FATURAMENTO":676965.3199999999,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":48,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":47
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":479324.037848824,
+        "VENDA_BRUTA":358161.34,
+        "DEVOLUCAO":39144.26,
+        "FATURAMENTO":319017.08,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":35,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":34
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":479324.037848824,
+        "VENDA_BRUTA":1101391.47,
+        "DEVOLUCAO":198518.44,
+        "FATURAMENTO":902873.03,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":62,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":61
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":503290.239733733,
+        "VENDA_BRUTA":630595.71,
+        "DEVOLUCAO":149281.39,
+        "FATURAMENTO":481314.32,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":64,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":63
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":479324.037848824,
+        "VENDA_BRUTA":577180.08,
+        "DEVOLUCAO":117280.14,
+        "FATURAMENTO":459899.94,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":40,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":39
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":551222.64352555,
+        "VENDA_BRUTA":444741.74,
+        "DEVOLUCAO":4958.76,
+        "FATURAMENTO":439782.98,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":47,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":46
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":503290.239733733,
+        "VENDA_BRUTA":838613.1,
+        "DEVOLUCAO":62794.66,
+        "FATURAMENTO":775818.4399999999,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":60,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":59
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":527256.441626645,
+        "VENDA_BRUTA":809571.24,
+        "DEVOLUCAO":59849.68,
+        "FATURAMENTO":749721.5600000001,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":47,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":46
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":551222.64352555,
+        "VENDA_BRUTA":658057.46,
+        "DEVOLUCAO":78601.17,
+        "FATURAMENTO":579456.29,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":68,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":67
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":479324.037848824,
+        "VENDA_BRUTA":790322.5,
+        "DEVOLUCAO":65021.65,
+        "FATURAMENTO":725300.85,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":73,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":72
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"Ceará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":527256.441626645,
+        "VENDA_BRUTA":365596.2,
+        "DEVOLUCAO":219650.37,
+        "FATURAMENTO":145945.83,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":28,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":27
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"Ceará",
         "META_VENDA":688804.8315989824,
-        "FATURAMENTO":499721.74,
+        "VENDA_BRUTA":518397.8,
+        "DEVOLUCAO":12075.82,
+        "FATURAMENTO":506321.98,
         "PEDIDO_PENDENTE":2830.560000528,
-        "CLIENTES_ATENDIDOS":51,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":50
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"Ceará",
         "META_VENDA":590404.1413705563,
-        "FATURAMENTO":403601.24,
+        "VENDA_BRUTA":545767.92,
+        "DEVOLUCAO":102582.0,
+        "FATURAMENTO":443185.92,
         "PEDIDO_PENDENTE":9600.038892,
-        "CLIENTES_ATENDIDOS":63,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":62
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"Ceará",
         "META_VENDA":801783.4018612495,
-        "FATURAMENTO":238146.5,
-        "PEDIDO_PENDENTE":128651.5384,
-        "CLIENTES_ATENDIDOS":28,
-        "META_POSITIVACAO":343
+        "VENDA_BRUTA":255128.62,
+        "DEVOLUCAO":16885.56,
+        "FATURAMENTO":238243.06,
+        "PEDIDO_PENDENTE":65254.5984,
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":27
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"Ceará",
         "META_VENDA":728894.0016920449,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"Ceará",
         "META_VENDA":728894.0016920449,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"Ceará",
         "META_VENDA":765338.7017766472,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"Ceará",
         "META_VENDA":838228.1019458517,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"Ceará",
         "META_VENDA":841872.5719543119,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"Ceará",
         "META_VENDA":765338.7017766472,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"Ceará",
         "META_VENDA":841872.5719543119,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"Ceará",
         "META_VENDA":801783.4018612495,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":343
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"Ceará",
         "META_VENDA":721605.0616751246,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":343
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"CHINA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":5
+        "META_POSITIVACAO":343,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"CHINA",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":5
+        "META_POSITIVACAO":5,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"CHINA",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":5
+        "META_POSITIVACAO":5,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"ESPIRITO SANTO",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":1
-    },
-    {
-        "MES_ANO":"05\/2023",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":16,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":12,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"10\/2023",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":12,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":14,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":13,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"02\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":12,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"03\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"06\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":15,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":12,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"09\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":13,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"11\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":12,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":1,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"01\/2025",
         "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":199713.523951388,
+        "VENDA_BRUTA":180246.28,
+        "DEVOLUCAO":25.56,
+        "FATURAMENTO":180220.72,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":13,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":13
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":181557.749065097,
+        "VENDA_BRUTA":203666.3,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":203666.3,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":8
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":181557.749065097,
+        "VENDA_BRUTA":127392.76,
+        "DEVOLUCAO":277.83,
+        "FATURAMENTO":127114.93,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":11
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":181557.749065097,
+        "VENDA_BRUTA":229404.16,
+        "DEVOLUCAO":10279.89,
+        "FATURAMENTO":219124.27,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":13,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":13
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":190635.636509382,
+        "VENDA_BRUTA":187709.22,
+        "DEVOLUCAO":962.4,
+        "FATURAMENTO":186746.82,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":15,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":15
+    },
+    {
+        "MES_ANO":"06\/2025",
+        "UF":"Maranhão",
+        "META_VENDA":181557.749065097,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":115.51,
+        "FATURAMENTO":-115.51,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":208791.411414723,
+        "VENDA_BRUTA":281823.32,
+        "DEVOLUCAO":29119.55,
+        "FATURAMENTO":252703.77,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":13,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":13
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":190635.636509382,
+        "VENDA_BRUTA":153944.74,
+        "DEVOLUCAO":1067.83,
+        "FATURAMENTO":152876.91,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":8
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":199713.523951388,
+        "VENDA_BRUTA":162263.86,
+        "DEVOLUCAO":145.68,
+        "FATURAMENTO":162118.18,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":10
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":208791.411414723,
+        "VENDA_BRUTA":292261.98,
+        "DEVOLUCAO":134.0,
+        "FATURAMENTO":292127.98,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":11
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":181557.749065097,
+        "VENDA_BRUTA":292312.2,
+        "DEVOLUCAO":64447.8,
+        "FATURAMENTO":227864.4,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":10
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"Maranhão",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":199713.523951388,
+        "VENDA_BRUTA":231000.7,
+        "DEVOLUCAO":4193.52,
+        "FATURAMENTO":226807.18,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":11
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"Maranhão",
         "META_VENDA":193164.6376375982,
-        "FATURAMENTO":73654.39,
+        "VENDA_BRUTA":73873.26,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":73873.26,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":5
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"Maranhão",
         "META_VENDA":165569.6894036556,
-        "FATURAMENTO":459083.14,
+        "VENDA_BRUTA":486038.68,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":486038.68,
         "PEDIDO_PENDENTE":1715.04,
-        "CLIENTES_ATENDIDOS":20,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":20
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"Maranhão",
         "META_VENDA":224847.7263506434,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":155695.32,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":93
+        "PEDIDO_PENDENTE":148333.2,
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"Maranhão",
         "META_VENDA":204407.0239551304,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"Maranhão",
         "META_VENDA":204407.0239551304,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"Maranhão",
         "META_VENDA":214627.375152887,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"Maranhão",
         "META_VENDA":235068.0775484,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"Maranhão",
         "META_VENDA":236090.1126681757,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"Maranhão",
         "META_VENDA":214627.375152887,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"Maranhão",
         "META_VENDA":236090.1126681757,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"Maranhão",
         "META_VENDA":224847.7263506434,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":93
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"Maranhão",
         "META_VENDA":202362.9537155791,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":93
-    },
-    {
-        "MES_ANO":"05\/2023",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"10\/2023",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"02\/2024",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"03\/2024",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"06\/2024",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"09\/2024",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":93,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"01\/2025",
         "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":174118.900040586,
+        "VENDA_BRUTA":135642.12,
+        "DEVOLUCAO":373.68,
+        "FATURAMENTO":135268.44,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":158289.90913996,
+        "VENDA_BRUTA":313018.74,
+        "DEVOLUCAO":1256.05,
+        "FATURAMENTO":311762.69,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":10
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":158289.90913996,
+        "VENDA_BRUTA":130746.78,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":130746.78,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":3
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":158289.90913996,
+        "VENDA_BRUTA":315384.66,
+        "DEVOLUCAO":728.97,
+        "FATURAMENTO":314655.69,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":9
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":166204.404590853,
+        "VENDA_BRUTA":123899.76,
+        "DEVOLUCAO":982.63,
+        "FATURAMENTO":122917.13,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":158289.90913996,
+        "VENDA_BRUTA":239952.72,
+        "DEVOLUCAO":99855.07,
+        "FATURAMENTO":140097.65,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":6
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":182033.395506739,
+        "VENDA_BRUTA":292012.58,
+        "DEVOLUCAO":22.58,
+        "FATURAMENTO":291990.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":9
+    },
+    {
+        "MES_ANO":"08\/2025",
+        "UF":"Pará",
+        "META_VENDA":166204.404590853,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":2421.96,
+        "FATURAMENTO":-2421.96,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":174118.900040586,
+        "VENDA_BRUTA":394426.04,
+        "DEVOLUCAO":430.43,
+        "FATURAMENTO":393995.61,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":10
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":182033.395506739,
+        "VENDA_BRUTA":146139.12,
+        "DEVOLUCAO":5334.98,
+        "FATURAMENTO":140804.14,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":158289.90913996,
+        "VENDA_BRUTA":130471.92,
+        "DEVOLUCAO":79.16,
+        "FATURAMENTO":130392.76,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"Pará",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":174118.900040586,
+        "VENDA_BRUTA":345758.92,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":345758.92,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":10
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"Pará",
         "META_VENDA":222315.4631872948,
-        "FATURAMENTO":2326.98,
+        "VENDA_BRUTA":2496.0,
+        "DEVOLUCAO":73.02,
+        "FATURAMENTO":2422.98,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"Pará",
         "META_VENDA":190556.1113033956,
+        "VENDA_BRUTA":240923.44,
+        "DEVOLUCAO":2566.48,
         "FATURAMENTO":238356.96,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":9
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"Pará",
         "META_VENDA":258779.9042391792,
+        "VENDA_BRUTA":127382.16,
+        "DEVOLUCAO":1273.33,
         "FATURAMENTO":126108.83,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"Pará",
         "META_VENDA":235254.4583992538,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"Pará",
         "META_VENDA":235254.4583992538,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"Pará",
         "META_VENDA":247017.1813192166,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"Pará",
         "META_VENDA":270542.6271591419,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"Pará",
         "META_VENDA":271718.8994511382,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"Pará",
         "META_VENDA":247017.1813192166,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"Pará",
         "META_VENDA":271718.8994511382,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"Pará",
         "META_VENDA":258779.9042391792,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":20
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"Pará",
         "META_VENDA":232901.9138152613,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":20
-    },
-    {
-        "MES_ANO":"05\/2023",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":94,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":141,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":155,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":135,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":166,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"10\/2023",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":149,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":133,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":94,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":109,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"02\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":98,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"03\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":132,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":129,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":133,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"06\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":123,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":120,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":121,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"09\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":125,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":145,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"11\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":111,
-        "META_POSITIVACAO":372
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":115,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":20,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"01\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":1010926.797015896,
+        "VENDA_BRUTA":661947.4,
+        "DEVOLUCAO":15893.92,
+        "FATURAMENTO":646053.48,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":105,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":105
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":919024.360906503,
+        "VENDA_BRUTA":865410.84,
+        "DEVOLUCAO":31275.46,
+        "FATURAMENTO":834135.38,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":99,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":99
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":919024.360906503,
+        "VENDA_BRUTA":1100812.72,
+        "DEVOLUCAO":6912.01,
+        "FATURAMENTO":1093900.71,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":133,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":133
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":919024.360906503,
+        "VENDA_BRUTA":1245335.5,
+        "DEVOLUCAO":3376.73,
+        "FATURAMENTO":1241958.77,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":119,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":119
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":964975.578975706,
+        "VENDA_BRUTA":911930.23,
+        "DEVOLUCAO":22263.6,
+        "FATURAMENTO":889666.63,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":154,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":154
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":919024.360906503,
+        "VENDA_BRUTA":1191732.8200000001,
+        "DEVOLUCAO":12349.34,
+        "FATURAMENTO":1179383.48,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":129,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":129
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":1056878.0150734179,
+        "VENDA_BRUTA":1166763.8799999999,
+        "DEVOLUCAO":19742.04,
+        "FATURAMENTO":1147021.8400000001,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":141,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":141
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":964975.578975706,
+        "VENDA_BRUTA":1025594.48,
+        "DEVOLUCAO":18324.38,
+        "FATURAMENTO":1007270.1,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":142,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":142
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":1010926.797015896,
+        "VENDA_BRUTA":957807.0,
+        "DEVOLUCAO":70269.42,
+        "FATURAMENTO":887537.58,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":146,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":146
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":1056878.0150734179,
+        "VENDA_BRUTA":1477633.8200000001,
+        "DEVOLUCAO":15326.04,
+        "FATURAMENTO":1462307.78,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":147,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":147
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":919024.360906503,
+        "VENDA_BRUTA":1238822.52,
+        "DEVOLUCAO":9308.42,
+        "FATURAMENTO":1229514.1000000001,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":152,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":152
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"Paraíba",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":1010926.797015896,
+        "VENDA_BRUTA":1351901.1000000001,
+        "DEVOLUCAO":30506.15,
+        "FATURAMENTO":1321394.95,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":121,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":121
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"Paraíba",
         "META_VENDA":1130904.4613361375,
-        "FATURAMENTO":1104131.5900000001,
+        "VENDA_BRUTA":1166589.6299999999,
+        "DEVOLUCAO":26496.37,
+        "FATURAMENTO":1140093.26,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":145,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":145
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"Paraíba",
         "META_VENDA":969346.6811452606,
-        "FATURAMENTO":1003917.88,
+        "VENDA_BRUTA":1087969.6599999999,
+        "DEVOLUCAO":9387.99,
+        "FATURAMENTO":1078581.6699999999,
         "PEDIDO_PENDENTE":3057.24,
-        "CLIENTES_ATENDIDOS":131,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":131
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"Paraíba",
         "META_VENDA":1316396.7274812183,
-        "FATURAMENTO":527417.3,
+        "VENDA_BRUTA":544906.67,
+        "DEVOLUCAO":5071.01,
+        "FATURAMENTO":539835.66,
         "PEDIDO_PENDENTE":323621.670101444,
-        "CLIENTES_ATENDIDOS":66,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":66
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"Paraíba",
         "META_VENDA":1196724.2977101984,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"Paraíba",
         "META_VENDA":1196724.2977101984,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"Paraíba",
         "META_VENDA":1256560.5125957085,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"Paraíba",
         "META_VENDA":1376232.9423667279,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"Paraíba",
         "META_VENDA":1382216.5638552792,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"Paraíba",
         "META_VENDA":1256560.5125957085,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"Paraíba",
         "META_VENDA":1382216.5638552792,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"Paraíba",
         "META_VENDA":1316396.7274812183,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"Paraíba",
         "META_VENDA":1184757.0547330962,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":372
+        "META_POSITIVACAO":372,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"01\/2025",
         "UF":"PARANA",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":1
+        "META_POSITIVACAO":1,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"PARANA",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":1
+        "META_POSITIVACAO":1,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"PARANA",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":1
-    },
-    {
-        "MES_ANO":"05\/2023",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":25,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":31,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":26,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":32,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":24,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"10\/2023",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":30,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":38,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":37,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":30,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"02\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":25,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"03\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":38,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":29,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":40,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"06\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":27,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":31,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":30,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"09\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":26,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":69,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"11\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":54,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":64,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":1,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"01\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":916754.841613577,
+        "VENDA_BRUTA":1025789.9,
+        "DEVOLUCAO":18660.63,
+        "FATURAMENTO":1007129.27,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":20,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":20
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":833413.4923555891,
+        "VENDA_BRUTA":1306361.0600000001,
+        "DEVOLUCAO":1994.4,
+        "FATURAMENTO":1304366.6599999999,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":60,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":60
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":833413.4923555891,
+        "VENDA_BRUTA":675531.88,
+        "DEVOLUCAO":60444.17,
+        "FATURAMENTO":615087.71,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":37,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":37
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":833413.4923555891,
+        "VENDA_BRUTA":960737.05,
+        "DEVOLUCAO":9239.1,
+        "FATURAMENTO":951497.95,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":23,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":23
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":875084.166985254,
+        "VENDA_BRUTA":1136712.6899999999,
+        "DEVOLUCAO":3311.44,
+        "FATURAMENTO":1133401.25,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":27,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":27
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":833413.4923555891,
+        "VENDA_BRUTA":486507.54,
+        "DEVOLUCAO":812.4,
+        "FATURAMENTO":485695.14,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":16,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":16
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":958425.516224224,
+        "VENDA_BRUTA":1036657.4300000001,
+        "DEVOLUCAO":2133.57,
+        "FATURAMENTO":1034523.86,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":46,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":46
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":875084.166985254,
+        "VENDA_BRUTA":873398.36,
+        "DEVOLUCAO":104.76,
+        "FATURAMENTO":873293.6,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":16,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":16
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":916754.841613577,
+        "VENDA_BRUTA":921858.92,
+        "DEVOLUCAO":7177.89,
+        "FATURAMENTO":914681.03,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":39,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":39
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":958425.516224224,
+        "VENDA_BRUTA":888562.61,
+        "DEVOLUCAO":252.88,
+        "FATURAMENTO":888309.73,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":33,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":33
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":833413.4923555891,
+        "VENDA_BRUTA":776363.33,
+        "DEVOLUCAO":6012.56,
+        "FATURAMENTO":770350.77,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":35,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":35
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"Pernambuco",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":916754.841613577,
+        "VENDA_BRUTA":891310.75,
+        "DEVOLUCAO":92629.76,
+        "FATURAMENTO":798680.99,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":42,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":42
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"Pernambuco",
         "META_VENDA":985895.3639061932,
-        "FATURAMENTO":944347.97,
+        "VENDA_BRUTA":991526.6899999999,
+        "DEVOLUCAO":15215.04,
+        "FATURAMENTO":976311.65,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":41,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":41
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"Pernambuco",
         "META_VENDA":845053.169062451,
-        "FATURAMENTO":823655.74,
+        "VENDA_BRUTA":928039.88,
+        "DEVOLUCAO":64938.65,
+        "FATURAMENTO":863101.23,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":33,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":33
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"Pernambuco",
         "META_VENDA":1147603.0690971559,
-        "FATURAMENTO":159993.41,
+        "VENDA_BRUTA":241380.65,
+        "DEVOLUCAO":81231.0,
+        "FATURAMENTO":160149.65,
         "PEDIDO_PENDENTE":352346.364635804,
-        "CLIENTES_ATENDIDOS":18,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":18
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"Pernambuco",
         "META_VENDA":1043275.5173610509,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"Pernambuco",
         "META_VENDA":1043275.5173610509,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"Pernambuco",
         "META_VENDA":1095439.2932291043,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"Pernambuco",
         "META_VENDA":1199766.844965209,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"Pernambuco",
         "META_VENDA":1204983.2225520138,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"Pernambuco",
         "META_VENDA":1095439.2932291043,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"Pernambuco",
         "META_VENDA":1204983.2225520138,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"Pernambuco",
         "META_VENDA":1147603.0690971562,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":207
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"Pernambuco",
         "META_VENDA":1032842.7621874403,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":207
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":13,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"10\/2023",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":15,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"03\/2024",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":9,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"06\/2024",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":13,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"09\/2024",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"11\/2024",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":207,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"01\/2025",
         "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":67293.731657878,
+        "VENDA_BRUTA":30834.6,
+        "DEVOLUCAO":6908.28,
+        "FATURAMENTO":23926.32,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":10
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":61176.11968339,
+        "VENDA_BRUTA":122505.84,
+        "DEVOLUCAO":11987.52,
+        "FATURAMENTO":110518.32,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":11
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":61176.11968339,
+        "VENDA_BRUTA":4086.0,
+        "DEVOLUCAO":111.48,
+        "FATURAMENTO":3974.52,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"PIAUÍ",
-        "META_VENDA":0.0,
+        "META_VENDA":61176.11968339,
+        "VENDA_BRUTA":41290.92,
+        "DEVOLUCAO":4287.99,
+        "FATURAMENTO":37002.93,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":5
+    },
+    {
+        "MES_ANO":"05\/2025",
+        "UF":"PIAUÍ",
+        "META_VENDA":64234.925669533,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":61176.11968339,
+        "VENDA_BRUTA":170399.64,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":170399.64,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":12,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":12
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":70352.537640891,
+        "VENDA_BRUTA":12960.2,
+        "DEVOLUCAO":383.3,
+        "FATURAMENTO":12576.9,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":4
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":64234.925669533,
+        "VENDA_BRUTA":142802.92,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":142802.92,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":11
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":67293.731657878,
+        "VENDA_BRUTA":84273.46,
+        "DEVOLUCAO":1026.84,
+        "FATURAMENTO":83246.62,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":11
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"PIAUÍ",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":70352.537640891,
+        "VENDA_BRUTA":5973.2,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":5973.2,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"PIAUÍ",
-        "META_VENDA":0.0,
+        "META_VENDA":61176.11968339,
+        "VENDA_BRUTA":212946.9,
+        "DEVOLUCAO":1389.82,
+        "FATURAMENTO":211557.08,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":12
+    },
+    {
+        "MES_ANO":"12\/2025",
+        "UF":"PIAUÍ",
+        "META_VENDA":67293.731657878,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":12,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":70851.5412192083,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":471.36,
         "FATURAMENTO":-471.36,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":60729.8924736071,
-        "FATURAMENTO":80242.94,
+        "VENDA_BRUTA":80166.24,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":80166.24,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":8,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":8
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":82472.6934826764,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":198805.08,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":74975.1758933421,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":74975.1758933421,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":78723.9346880093,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":86221.4522773435,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":86596.3281568102,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":78723.9346880093,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":86596.3281568102,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":82472.6934826764,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"PIAUÍ",
         "META_VENDA":74225.4241344087,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":35
-    },
-    {
-        "MES_ANO":"05\/2023",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":469,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":513,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":546,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":522,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":529,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"10\/2023",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":499,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":523,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":473,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":495,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"02\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":476,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"03\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":451,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":464,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":477,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"06\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":509,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":511,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":551,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"09\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":474,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":526,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"11\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":487,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":477,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":35,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"01\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2823146.9049264588,
+        "VENDA_BRUTA":2100748.3300000001,
+        "DEVOLUCAO":36902.25,
+        "FATURAMENTO":2063846.0800000001,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":487,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":487
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2566497.186294815,
+        "VENDA_BRUTA":2884636.4199999999,
+        "DEVOLUCAO":153283.94,
+        "FATURAMENTO":2731352.48,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":487,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":487
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2566497.186294815,
+        "VENDA_BRUTA":2731558.6499999999,
+        "DEVOLUCAO":199266.9,
+        "FATURAMENTO":2532291.75,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":436,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":436
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2566497.186294815,
+        "VENDA_BRUTA":2942280.4100000001,
+        "DEVOLUCAO":28417.91,
+        "FATURAMENTO":2913862.5,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":450,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":450
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2694822.0456004599,
+        "VENDA_BRUTA":3096197.5800000001,
+        "DEVOLUCAO":25565.96,
+        "FATURAMENTO":3070631.6200000001,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":484,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":484
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2566497.186294815,
+        "VENDA_BRUTA":2622559.52,
+        "DEVOLUCAO":32329.93,
+        "FATURAMENTO":2590229.5899999999,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":500,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":500
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2951471.7642134661,
+        "VENDA_BRUTA":3620155.1000000001,
+        "DEVOLUCAO":18986.91,
+        "FATURAMENTO":3601168.1899999999,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":496,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":496
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2694822.0456004599,
+        "VENDA_BRUTA":3734287.3900000001,
+        "DEVOLUCAO":58038.98,
+        "FATURAMENTO":3676248.4100000001,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":507,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":507
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2823146.9049264588,
+        "VENDA_BRUTA":3157549.8900000001,
+        "DEVOLUCAO":65909.85,
+        "FATURAMENTO":3091640.04,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":476,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":476
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2951471.7642134661,
+        "VENDA_BRUTA":3786087.0099999998,
+        "DEVOLUCAO":50851.11,
+        "FATURAMENTO":3735235.8999999999,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":509,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":509
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2566497.186294815,
+        "VENDA_BRUTA":3038403.0899999999,
+        "DEVOLUCAO":53781.39,
+        "FATURAMENTO":2984621.7000000002,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":481,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":481
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"Rio G. do Norte",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":2823146.9049264588,
+        "VENDA_BRUTA":3394296.1800000002,
+        "DEVOLUCAO":61471.55,
+        "FATURAMENTO":3332824.6299999999,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":487,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":487
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3142561.9992413679,
-        "FATURAMENTO":3951582.6800000002,
+        "VENDA_BRUTA":4222786.2699999996,
+        "DEVOLUCAO":69304.96,
+        "FATURAMENTO":4153481.3100000001,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":534,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":534
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":2694478.1186034344,
-        "FATURAMENTO":2585393.6400000001,
+        "VENDA_BRUTA":2748692.3500000001,
+        "DEVOLUCAO":17004.68,
+        "FATURAMENTO":2731687.6699999999,
         "PEDIDO_PENDENTE":14392.9904,
-        "CLIENTES_ATENDIDOS":440,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":440
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3659167.8153873808,
-        "FATURAMENTO":938536.5699999999,
-        "PEDIDO_PENDENTE":843707.218974576,
-        "CLIENTES_ATENDIDOS":197,
-        "META_POSITIVACAO":1072
+        "VENDA_BRUTA":1019252.9300000001,
+        "DEVOLUCAO":39118.91,
+        "FATURAMENTO":980134.02,
+        "PEDIDO_PENDENTE":829896.899750576,
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":198
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3326516.19580671,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3326516.19580671,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3492842.0055970456,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3825493.6251777164,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3842126.2061567497,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3492842.0055970456,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3842126.2061567497,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3659167.8153873812,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":1072
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3293251.0338486428,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":1072
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"Rio G. do Sul",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":4
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"Rio G. do Sul",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":4
+        "META_POSITIVACAO":1072,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"Rio G. do Sul",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":4
+        "META_POSITIVACAO":4,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"Rio G. do Sul",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":4
+        "META_POSITIVACAO":4,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"07\/2025",
         "UF":"Rio G. do Sul",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":4
+        "META_POSITIVACAO":4,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"Rio G. do Sul",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":4
-    },
-    {
-        "MES_ANO":"05\/2023",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":7,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"12\/2023",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":10,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"02\/2024",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"04\/2024",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":11,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"06\/2024",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":6,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"11\/2024",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":29
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":4,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"01\/2025",
         "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":51745.872599523,
+        "VENDA_BRUTA":61320.96,
+        "DEVOLUCAO":100.08,
+        "FATURAMENTO":61220.88,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":1
+    },
+    {
+        "MES_ANO":"02\/2025",
+        "UF":"RORAIMA",
+        "META_VENDA":47041.702363477,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":76.32,
+        "FATURAMENTO":-76.32,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":47041.702363477,
+        "VENDA_BRUTA":8408.8,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":8408.8,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":47041.702363477,
+        "VENDA_BRUTA":107270.58,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":107270.58,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":3
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":49393.787481971,
+        "VENDA_BRUTA":62143.14,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":62143.14,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":47041.702363477,
+        "VENDA_BRUTA":72878.6,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":72878.6,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":3,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":3
+    },
+    {
+        "MES_ANO":"07\/2025",
+        "UF":"RORAIMA",
+        "META_VENDA":54097.957717076,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":242.1,
+        "FATURAMENTO":-242.1,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"RORAIMA",
-        "META_VENDA":0.0,
+        "META_VENDA":49393.787481971,
+        "VENDA_BRUTA":97589.02,
+        "DEVOLUCAO":11481.18,
+        "FATURAMENTO":86107.84,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":5
+    },
+    {
+        "MES_ANO":"09\/2025",
+        "UF":"RORAIMA",
+        "META_VENDA":51745.872599523,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"RORAIMA",
-        "META_VENDA":0.0,
+        "META_VENDA":54097.957717076,
+        "VENDA_BRUTA":63243.18,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":63243.18,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":1
+    },
+    {
+        "MES_ANO":"11\/2025",
+        "UF":"RORAIMA",
+        "META_VENDA":47041.702363477,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"RORAIMA",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":51745.872599523,
+        "VENDA_BRUTA":110704.24,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":110704.24,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":4
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"RORAIMA",
         "META_VENDA":50657.6489480752,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"RORAIMA",
         "META_VENDA":43420.841955493,
-        "FATURAMENTO":-77.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":96.42,
+        "FATURAMENTO":-96.42,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"RORAIMA",
         "META_VENDA":58966.5754951139,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":36504.58,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"RORAIMA",
         "META_VENDA":53605.9777228309,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"RORAIMA",
         "META_VENDA":53605.9777228309,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"RORAIMA",
         "META_VENDA":56286.2766089724,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"RORAIMA",
         "META_VENDA":61646.8743812555,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"RORAIMA",
         "META_VENDA":61914.9042698697,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"RORAIMA",
         "META_VENDA":56286.2766089724,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"RORAIMA",
         "META_VENDA":61914.9042698697,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"RORAIMA",
         "META_VENDA":58966.575495114,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"RORAIMA",
         "META_VENDA":53069.9179456026,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":29
+        "META_POSITIVACAO":29,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"Santa Catarina",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":1
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":14
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":14
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":14
-    },
-    {
-        "MES_ANO":"01\/2024",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":14
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":14
-    },
-    {
-        "MES_ANO":"08\/2024",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":14
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":14
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":14
+        "META_POSITIVACAO":1,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"São Paulo",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":14
+        "META_POSITIVACAO":14,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"03\/2025",
         "UF":"São Paulo",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":14
+        "META_POSITIVACAO":14,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"05\/2025",
         "UF":"São Paulo",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":14
+        "META_POSITIVACAO":14,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"São Paulo",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":14
+        "META_POSITIVACAO":14,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"São Paulo",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":14
+        "META_POSITIVACAO":14,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"12\/2025",
         "UF":"São Paulo",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":14
+        "META_POSITIVACAO":14,
+        "CLIENTES_ATENDIDOS":1
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"São Paulo",
         "META_VENDA":0.0,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":14
+        "META_POSITIVACAO":14,
+        "CLIENTES_ATENDIDOS":1
     },
     {
-        "MES_ANO":"05\/2023",
+        "MES_ANO":"01\/2025",
         "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":32955.34173207,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":1721.04,
+        "FATURAMENTO":-1721.04,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"06\/2023",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"07\/2023",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"08\/2023",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"09\/2023",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"11\/2023",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"02\/2024",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":1,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"03\/2024",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":4,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"05\/2024",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"07\/2024",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"09\/2024",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"10\/2024",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"11\/2024",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
-    },
-    {
-        "MES_ANO":"12\/2024",
-        "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"02\/2025",
         "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":29959.40157419,
+        "VENDA_BRUTA":81888.6,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":81888.6,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":5
+    },
+    {
+        "MES_ANO":"03\/2025",
+        "UF":"SERGIPE",
+        "META_VENDA":29959.40157419,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":11.4,
+        "FATURAMENTO":-11.4,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"04\/2025",
         "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":29959.40157419,
+        "VENDA_BRUTA":112195.04,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":112195.04,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":5
+    },
+    {
+        "MES_ANO":"05\/2025",
+        "UF":"SERGIPE",
+        "META_VENDA":31457.37165325,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":390.24,
+        "FATURAMENTO":-390.24,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2025",
         "UF":"SERGIPE",
-        "META_VENDA":0.0,
+        "META_VENDA":29959.40157419,
+        "VENDA_BRUTA":53356.72,
+        "DEVOLUCAO":28.44,
+        "FATURAMENTO":53328.28,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":5
+    },
+    {
+        "MES_ANO":"07\/2025",
+        "UF":"SERGIPE",
+        "META_VENDA":34453.31181066,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2025",
         "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":31457.37165325,
+        "VENDA_BRUTA":33158.28,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":33158.28,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":5
     },
     {
         "MES_ANO":"09\/2025",
         "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":32955.34173207,
+        "VENDA_BRUTA":85122.89,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":85122.89,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":5
     },
     {
         "MES_ANO":"10\/2025",
         "UF":"SERGIPE",
-        "META_VENDA":0.0,
-        "FATURAMENTO":0.0,
+        "META_VENDA":34453.31181066,
+        "VENDA_BRUTA":21360.58,
+        "DEVOLUCAO":19289.28,
+        "FATURAMENTO":2071.3,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":2,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":2
     },
     {
         "MES_ANO":"11\/2025",
         "UF":"SERGIPE",
-        "META_VENDA":0.0,
+        "META_VENDA":29959.40157419,
+        "VENDA_BRUTA":67377.25,
+        "DEVOLUCAO":0.0,
+        "FATURAMENTO":67377.25,
+        "PEDIDO_PENDENTE":0.0,
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":5
+    },
+    {
+        "MES_ANO":"12\/2025",
+        "UF":"SERGIPE",
+        "META_VENDA":32955.34173207,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"01\/2026",
         "UF":"SERGIPE",
         "META_VENDA":39967.1427511795,
+        "VENDA_BRUTA":51165.98,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":51165.98,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":5
     },
     {
         "MES_ANO":"02\/2026",
         "UF":"SERGIPE",
         "META_VENDA":34257.5509295824,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"03\/2026",
         "UF":"SERGIPE",
         "META_VENDA":46522.6000278279,
+        "VENDA_BRUTA":52505.62,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":52505.62,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":5,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":5
     },
     {
         "MES_ANO":"04\/2026",
         "UF":"SERGIPE",
         "META_VENDA":42293.2727525709,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"05\/2026",
         "UF":"SERGIPE",
         "META_VENDA":42293.2727525709,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"06\/2026",
         "UF":"SERGIPE",
         "META_VENDA":44407.9363901994,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"07\/2026",
         "UF":"SERGIPE",
         "META_VENDA":48637.2636654565,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"08\/2026",
         "UF":"SERGIPE",
         "META_VENDA":48848.7300292194,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"09\/2026",
         "UF":"SERGIPE",
         "META_VENDA":44407.9363901994,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"10\/2026",
         "UF":"SERGIPE",
         "META_VENDA":48848.7300292194,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"11\/2026",
         "UF":"SERGIPE",
         "META_VENDA":46522.600027828,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     },
     {
         "MES_ANO":"12\/2026",
         "UF":"SERGIPE",
         "META_VENDA":41870.3400250452,
+        "VENDA_BRUTA":0.0,
+        "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "CLIENTES_ATENDIDOS":0,
-        "META_POSITIVACAO":10
+        "META_POSITIVACAO":10,
+        "CLIENTES_ATENDIDOS":0
     }
 ]
