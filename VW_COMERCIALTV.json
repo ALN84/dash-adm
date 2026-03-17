@@ -1213,10 +1213,10 @@
         "MES_ANO":"03\/2026",
         "UF":"Ceará",
         "META_VENDA":801783.4018612495,
-        "VENDA_BRUTA":324393.1,
+        "VENDA_BRUTA":325216.9,
         "DEVOLUCAO":30827.04,
-        "FATURAMENTO":293566.06,
-        "PEDIDO_PENDENTE":6130.92,
+        "FATURAMENTO":294389.86,
+        "PEDIDO_PENDENTE":5307.12,
         "META_POSITIVACAO":344,
         "CLIENTES_ATENDIDOS":30
     },
@@ -1888,7 +1888,7 @@
         "DEVOLUCAO":15893.92,
         "FATURAMENTO":646053.48,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":105
     },
     {
@@ -1899,7 +1899,7 @@
         "DEVOLUCAO":31275.46,
         "FATURAMENTO":834135.38,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":99
     },
     {
@@ -1910,7 +1910,7 @@
         "DEVOLUCAO":6912.01,
         "FATURAMENTO":1093900.71,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":133
     },
     {
@@ -1921,7 +1921,7 @@
         "DEVOLUCAO":3376.73,
         "FATURAMENTO":1241958.77,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":119
     },
     {
@@ -1932,7 +1932,7 @@
         "DEVOLUCAO":22263.6,
         "FATURAMENTO":889666.63,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":154
     },
     {
@@ -1943,7 +1943,7 @@
         "DEVOLUCAO":12349.34,
         "FATURAMENTO":1179383.48,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":129
     },
     {
@@ -1954,7 +1954,7 @@
         "DEVOLUCAO":19742.04,
         "FATURAMENTO":1147021.8400000001,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":141
     },
     {
@@ -1965,7 +1965,7 @@
         "DEVOLUCAO":18324.38,
         "FATURAMENTO":1007270.1,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":142
     },
     {
@@ -1976,7 +1976,7 @@
         "DEVOLUCAO":70269.42,
         "FATURAMENTO":887537.58,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":146
     },
     {
@@ -1987,7 +1987,7 @@
         "DEVOLUCAO":15326.04,
         "FATURAMENTO":1462307.78,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":147
     },
     {
@@ -1998,7 +1998,7 @@
         "DEVOLUCAO":9308.42,
         "FATURAMENTO":1229514.1000000001,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":152
     },
     {
@@ -2009,7 +2009,7 @@
         "DEVOLUCAO":30506.15,
         "FATURAMENTO":1321394.95,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":121
     },
     {
@@ -2020,7 +2020,7 @@
         "DEVOLUCAO":26496.37,
         "FATURAMENTO":1140093.26,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":145
     },
     {
@@ -2031,7 +2031,7 @@
         "DEVOLUCAO":9387.99,
         "FATURAMENTO":1078581.6699999999,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":131
     },
     {
@@ -2041,8 +2041,8 @@
         "VENDA_BRUTA":686679.3,
         "DEVOLUCAO":5071.01,
         "FATURAMENTO":681608.29,
-        "PEDIDO_PENDENTE":402904.191137424,
-        "META_POSITIVACAO":372,
+        "PEDIDO_PENDENTE":315713.371146576,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":88
     },
     {
@@ -2053,7 +2053,7 @@
         "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":0
     },
     {
@@ -2064,7 +2064,7 @@
         "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":0
     },
     {
@@ -2075,7 +2075,7 @@
         "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":0
     },
     {
@@ -2086,7 +2086,7 @@
         "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":0
     },
     {
@@ -2097,7 +2097,7 @@
         "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":0
     },
     {
@@ -2108,7 +2108,7 @@
         "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":0
     },
     {
@@ -2119,7 +2119,7 @@
         "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":0
     },
     {
@@ -2130,7 +2130,7 @@
         "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":0
     },
     {
@@ -2141,7 +2141,7 @@
         "DEVOLUCAO":0.0,
         "FATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":372,
+        "META_POSITIVACAO":373,
         "CLIENTES_ATENDIDOS":0
     },
     {
@@ -2863,12 +2863,12 @@
         "MES_ANO":"03\/2026",
         "UF":"Rio G. do Norte",
         "META_VENDA":3659167.8153873808,
-        "VENDA_BRUTA":1556363.96,
+        "VENDA_BRUTA":1596909.5600000001,
         "DEVOLUCAO":39118.91,
-        "FATURAMENTO":1517245.05,
-        "PEDIDO_PENDENTE":777456.44156448,
+        "FATURAMENTO":1557790.6499999999,
+        "PEDIDO_PENDENTE":785904.6901564799,
         "META_POSITIVACAO":1073,
-        "CLIENTES_ATENDIDOS":317
+        "CLIENTES_ATENDIDOS":323
     },
     {
         "MES_ANO":"04\/2026",
