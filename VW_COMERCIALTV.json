@@ -2335,12 +2335,12 @@
         "MES_ANO":"03\/2026",
         "UF":"Pernambuco",
         "META_VENDA":1147603.0690971559,
-        "VENDA_BRUTA":383430.21,
+        "VENDA_BRUTA":403697.55,
         "DEVOLUCAO":81231.0,
-        "FATURAMENTO":302199.21,
+        "FATURAMENTO":322466.55,
         "PEDIDO_PENDENTE":345418.783838864,
         "META_POSITIVACAO":207,
-        "CLIENTES_ATENDIDOS":28
+        "CLIENTES_ATENDIDOS":29
     },
     {
         "MES_ANO":"04\/2026",
