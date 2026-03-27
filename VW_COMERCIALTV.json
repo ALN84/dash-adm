@@ -93,7 +93,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":35,
-        "CLIENTES_ATENDIDOS":6
+        "CLIENTES_ATENDIDOS":5
     },
     {
         "MES_ANO":"09\/2025",
@@ -1440,42 +1440,6 @@
         "CLIENTES_ATENDIDOS":0
     },
     {
-        "MES_ANO":"12\/2025",
-        "UF":"CHINA",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":5,
-        "CLIENTES_ATENDIDOS":2
-    },
-    {
-        "MES_ANO":"03\/2026",
-        "UF":"CHINA",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":5,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
-        "MES_ANO":"01\/2026",
-        "UF":"ESPIRITO SANTO",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":1,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
         "MES_ANO":"01\/2025",
         "UF":"Maranhão",
         "META_VENDA":199713.523951388,
@@ -2341,42 +2305,6 @@
     },
     {
         "MES_ANO":"01\/2025",
-        "UF":"PARANA",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":1,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
-        "MES_ANO":"12\/2025",
-        "UF":"PARANA",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":1,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
-        "MES_ANO":"01\/2026",
-        "UF":"PARANA",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":1,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
-        "MES_ANO":"01\/2025",
         "UF":"Pernambuco",
         "META_VENDA":916754.841613577,
         "VENDA_BRUTA":1025789.9,
@@ -2385,7 +2313,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":204,
-        "CLIENTES_ATENDIDOS":20
+        "CLIENTES_ATENDIDOS":19
     },
     {
         "MES_ANO":"02\/2025",
@@ -2493,7 +2421,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":204,
-        "CLIENTES_ATENDIDOS":33
+        "CLIENTES_ATENDIDOS":32
     },
     {
         "MES_ANO":"11\/2025",
@@ -2541,7 +2469,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":204,
-        "CLIENTES_ATENDIDOS":33
+        "CLIENTES_ATENDIDOS":32
     },
     {
         "MES_ANO":"03\/2026",
@@ -2745,7 +2673,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":35,
-        "CLIENTES_ATENDIDOS":4
+        "CLIENTES_ATENDIDOS":3
     },
     {
         "MES_ANO":"08\/2025",
@@ -2961,7 +2889,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":487
+        "CLIENTES_ATENDIDOS":486
     },
     {
         "MES_ANO":"02\/2025",
@@ -2973,7 +2901,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":487
+        "CLIENTES_ATENDIDOS":486
     },
     {
         "MES_ANO":"03\/2025",
@@ -2985,7 +2913,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":436
+        "CLIENTES_ATENDIDOS":433
     },
     {
         "MES_ANO":"04\/2025",
@@ -2997,7 +2925,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":450
+        "CLIENTES_ATENDIDOS":448
     },
     {
         "MES_ANO":"05\/2025",
@@ -3009,7 +2937,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":484
+        "CLIENTES_ATENDIDOS":482
     },
     {
         "MES_ANO":"06\/2025",
@@ -3021,7 +2949,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":500
+        "CLIENTES_ATENDIDOS":498
     },
     {
         "MES_ANO":"07\/2025",
@@ -3033,7 +2961,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":496
+        "CLIENTES_ATENDIDOS":494
     },
     {
         "MES_ANO":"08\/2025",
@@ -3045,7 +2973,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":507
+        "CLIENTES_ATENDIDOS":505
     },
     {
         "MES_ANO":"09\/2025",
@@ -3057,7 +2985,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":476
+        "CLIENTES_ATENDIDOS":474
     },
     {
         "MES_ANO":"10\/2025",
@@ -3069,7 +2997,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":509
+        "CLIENTES_ATENDIDOS":507
     },
     {
         "MES_ANO":"11\/2025",
@@ -3081,7 +3009,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":481
+        "CLIENTES_ATENDIDOS":479
     },
     {
         "MES_ANO":"12\/2025",
@@ -3093,7 +3021,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":487
+        "CLIENTES_ATENDIDOS":486
     },
     {
         "MES_ANO":"01\/2026",
@@ -3105,7 +3033,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":534
+        "CLIENTES_ATENDIDOS":531
     },
     {
         "MES_ANO":"02\/2026",
@@ -3117,7 +3045,7 @@
         "PREFATURAMENTO":0.0,
         "PEDIDO_PENDENTE":0.0,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":440
+        "CLIENTES_ATENDIDOS":436
     },
     {
         "MES_ANO":"03\/2026",
@@ -3127,9 +3055,9 @@
         "DEVOLUCAO":109735.56,
         "FATURAMENTO":2771441.4399999999,
         "PREFATURAMENTO":56460.68,
-        "PEDIDO_PENDENTE":964798.077412716,
+        "PEDIDO_PENDENTE":969549.357412704,
         "META_POSITIVACAO":1066,
-        "CLIENTES_ATENDIDOS":473
+        "CLIENTES_ATENDIDOS":471
     },
     {
         "MES_ANO":"04\/2026",
@@ -3240,18 +3168,6 @@
         "CLIENTES_ATENDIDOS":0
     },
     {
-        "MES_ANO":"05\/2025",
-        "UF":"Rio G. do Sul",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":4,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
         "MES_ANO":"06\/2025",
         "UF":"Rio G. do Sul",
         "META_VENDA":0.0,
@@ -3265,18 +3181,6 @@
     },
     {
         "MES_ANO":"07\/2025",
-        "UF":"Rio G. do Sul",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":4,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
-        "MES_ANO":"10\/2025",
         "UF":"Rio G. do Sul",
         "META_VENDA":0.0,
         "VENDA_BRUTA":0.0,
@@ -3576,66 +3480,6 @@
         "CLIENTES_ATENDIDOS":0
     },
     {
-        "MES_ANO":"05\/2025",
-        "UF":"Santa Catarina",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":1,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
-        "MES_ANO":"02\/2025",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":15,
-        "CLIENTES_ATENDIDOS":2
-    },
-    {
-        "MES_ANO":"03\/2025",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":15,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
-        "MES_ANO":"05\/2025",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":15,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
-        "MES_ANO":"08\/2025",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":15,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
         "MES_ANO":"11\/2025",
         "UF":"São Paulo",
         "META_VENDA":0.0,
@@ -3649,18 +3493,6 @@
     },
     {
         "MES_ANO":"12\/2025",
-        "UF":"São Paulo",
-        "META_VENDA":0.0,
-        "VENDA_BRUTA":0.0,
-        "DEVOLUCAO":0.0,
-        "FATURAMENTO":0.0,
-        "PREFATURAMENTO":0.0,
-        "PEDIDO_PENDENTE":0.0,
-        "META_POSITIVACAO":15,
-        "CLIENTES_ATENDIDOS":1
-    },
-    {
-        "MES_ANO":"01\/2026",
         "UF":"São Paulo",
         "META_VENDA":0.0,
         "VENDA_BRUTA":0.0,
